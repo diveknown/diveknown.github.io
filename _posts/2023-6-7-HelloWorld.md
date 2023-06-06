@@ -3,4 +3,4 @@ title: Hello World!
 published: true
 ---
 
-This is my first blog on git page!
+This is my first blog on Github Page!
