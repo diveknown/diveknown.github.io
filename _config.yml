@@ -5,7 +5,7 @@ author:
   email: "guinianzx@gmail.com"
   url: "https://diveknown.github.io/"
 
-baseurl: /
+baseurl: /archive
 
 source: .
 destination: ./_site
